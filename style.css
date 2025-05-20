@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+.ufc div{
+    background-color: gold;
+    width: 235px;
+    height: 73px;
+    text-align: center;
+}
